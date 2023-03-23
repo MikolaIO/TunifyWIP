@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TunifyWIP</string>
+    <string name="title_ukulele">Ukulele</string>
+    <string name="title_guitar">Guitar</string>
+    <string name="title_chromatic">Chromatic</string>
+    <string name="title_frequency">Frequency</string>
+    <string name="description_rex">Displays the Rex Assistant</string>
+    <string name="description_bubble">Displays the speech bubble</string>
+    <string name="description_triangle">Displays the xml triangle</string>
+</resources>
