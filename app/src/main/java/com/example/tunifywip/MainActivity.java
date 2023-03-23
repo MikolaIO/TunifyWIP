@@ -41,16 +41,6 @@ public class MainActivity extends AppCompatActivity {
         audioProcess = new AudioProcess();
         audioProcess.InitPitchHandler(freqText, toneText, progressBar);
         audioProcess.InitPitchDetector();
-
-        try {
-            audioProcess = new AudioProcess();
-            audioProcess.InitPitchHandler();
-            audioProcess.InitPitchDetector();
-        } catch (Exception e) {
-            System.out.println("Error");
-        }
-
-
     }
 
 }
